@@ -1,15 +1,21 @@
 # Jiaqi Ye
 
 Embedded Software and System
+
 Software School SUN YAT-SEN UNIVERSITY
 
 ## Contact Me
 
 Email : yejq8@mail2.sysu.edu.cn
+
 Phone : 18819473230
+
 QQ : 423093883
+
 Wechat : yejq08
+
 [yejqjiaqi@github](https://github.com/ghostbody/)
+
 [yejqjiaqi@oschina](http://my.oschina.net/yejq08)
 
 
